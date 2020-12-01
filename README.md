@@ -6,4 +6,4 @@
 * Код: https://github.com/YKalashnikov/Chat-app-with-node.js-and-socket.io (72+31 lines js-code)
 * Время выполнения: 4 часа
 
-мой код
+мой код https://enigmer2.github.io/Task-12.-Chat-on-socket.io/
