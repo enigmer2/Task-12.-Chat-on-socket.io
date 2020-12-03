@@ -1,0 +1,30 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "package_name": "^1.0.2",
+    "ws": "^7.4.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "socket.io": "^2.2.0"
+  },
+  "name": "chat-on-socket",
+  "description": "* Приложение-чат для отправки / получения сообщений в режиме реального времени в котором есть клиентская и серверная часть кода * Чему вы научитесь: работать с node.js и socket.io * Туториал: https://medium.com/freecodecamp-russia-русскоязычный/создание-простого-приложения-для-чата-с-помощью-node-js-и-socket-io-eb7498391611 * Код: https://github.com/YKalashnikov/Chat-app-with-node.js-and-socket.io (72+31 lines js-code) * Время выполнения: 4 часа",
+  "version": "1.0.0",
+  "main": "task-12.-chat-on-socket.io",
+  "devDependencies": {},
+  "scripts": {
+    "sra": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enigmer2/Task-12.-Chat-on-socket.io.git"
+  },
+  "author": "Dzmitry Datskevich <dda.enigmer@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enigmer2/Task-12.-Chat-on-socket.io/issues"
+  },
+  "homepage": "https://github.com/enigmer2/Task-12.-Chat-on-socket.io#readme"
+}
